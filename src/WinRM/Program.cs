@@ -10,7 +10,7 @@ namespace WinRM {
                 "192.168.33.30",
                 "vagrant",
                 "vagrant".ToSecureString(),
-                autoManageTrustedHosts: true);
+                autoManageTrustedHosts: false);
 
             // will perform a user initiated reboot.
             machineManager.Reboot();
