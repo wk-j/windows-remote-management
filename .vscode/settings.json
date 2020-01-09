@@ -23,5 +23,6 @@
         "dist": true,
         "build": true,
         ".cache": true
-    }
+    },
+    "python.pythonPath": "/Users/wk/.local/share/virtualenvs/windows-remote-management-qx2HPfEB/bin/python"
 }
